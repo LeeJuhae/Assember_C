@@ -1,0 +1,49 @@
+﻿  my_assembler_20160311.c
+c:\users\samsung\desktop\[217]프로젝트 1_이주해_20160311\source\hw4\hw4\my_assembler_20160311.c(98): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(207): note: 'fopen' 선언을 참조하십시오.
+c:\users\samsung\desktop\[217]프로젝트 1_이주해_20160311\source\hw4\hw4\my_assembler_20160311.c(111): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1195): note: 'fscanf' 선언을 참조하십시오.
+c:\users\samsung\desktop\[217]프로젝트 1_이주해_20160311\source\hw4\hw4\my_assembler_20160311.c(129): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(207): note: 'fopen' 선언을 참조하십시오.
+c:\users\samsung\desktop\[217]프로젝트 1_이주해_20160311\source\hw4\hw4\my_assembler_20160311.c(306): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: 'strcpy' 선언을 참조하십시오.
+c:\users\samsung\desktop\[217]프로젝트 1_이주해_20160311\source\hw4\hw4\my_assembler_20160311.c(309): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: 'strcpy' 선언을 참조하십시오.
+c:\users\samsung\desktop\[217]프로젝트 1_이주해_20160311\source\hw4\hw4\my_assembler_20160311.c(315): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: 'strcpy' 선언을 참조하십시오.
+c:\users\samsung\desktop\[217]프로젝트 1_이주해_20160311\source\hw4\hw4\my_assembler_20160311.c(324): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: 'strcpy' 선언을 참조하십시오.
+c:\users\samsung\desktop\[217]프로젝트 1_이주해_20160311\source\hw4\hw4\my_assembler_20160311.c(359): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(207): note: 'fopen' 선언을 참조하십시오.
+c:\users\samsung\desktop\[217]프로젝트 1_이주해_20160311\source\hw4\hw4\my_assembler_20160311.c(539): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\samsung\desktop\[217]프로젝트 1_이주해_20160311\source\hw4\hw4\my_assembler_20160311.c(603): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: 'strcpy' 선언을 참조하십시오.
+c:\users\samsung\desktop\[217]프로젝트 1_이주해_20160311\source\hw4\hw4\my_assembler_20160311.c(638): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(207): note: 'fopen' 선언을 참조하십시오.
+c:\users\samsung\desktop\[217]프로젝트 1_이주해_20160311\source\hw4\hw4\my_assembler_20160311.c(725): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: 'strcpy' 선언을 참조하십시오.
+c:\users\samsung\desktop\[217]프로젝트 1_이주해_20160311\source\hw4\hw4\my_assembler_20160311.c(729): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: 'strcpy' 선언을 참조하십시오.
+c:\users\samsung\desktop\[217]프로젝트 1_이주해_20160311\source\hw4\hw4\my_assembler_20160311.c(838): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: 'strcpy' 선언을 참조하십시오.
+c:\users\samsung\desktop\[217]프로젝트 1_이주해_20160311\source\hw4\hw4\my_assembler_20160311.c(882): warning C4018: '<=': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\samsung\desktop\[217]프로젝트 1_이주해_20160311\source\hw4\hw4\my_assembler_20160311.c(886): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\samsung\desktop\[217]프로젝트 1_이주해_20160311\source\hw4\hw4\my_assembler_20160311.c(944): warning C4018: '<=': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\samsung\desktop\[217]프로젝트 1_이주해_20160311\source\hw4\hw4\my_assembler_20160311.c(873): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(207): note: 'fopen' 선언을 참조하십시오.
+c:\users\samsung\desktop\[217]프로젝트 1_이주해_20160311\source\hw4\hw4\my_assembler_20160311.c(903): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: 'strcpy' 선언을 참조하십시오.
+c:\users\samsung\desktop\[217]프로젝트 1_이주해_20160311\source\hw4\hw4\my_assembler_20160311.c(910): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: 'strcpy' 선언을 참조하십시오.
+c:\users\samsung\desktop\[217]프로젝트 1_이주해_20160311\source\hw4\hw4\my_assembler_20160311.c(925): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(439): note: 'strtok' 선언을 참조하십시오.
+c:\users\samsung\desktop\[217]프로젝트 1_이주해_20160311\source\hw4\hw4\my_assembler_20160311.c(932): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(439): note: 'strtok' 선언을 참조하십시오.
+c:\users\samsung\desktop\[217]프로젝트 1_이주해_20160311\source\hw4\hw4\my_assembler_20160311.c(984): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: 'strcpy' 선언을 참조하십시오.
+c:\users\samsung\desktop\[217]프로젝트 1_이주해_20160311\source\hw4\hw4\my_assembler_20160311.c(985): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(439): note: 'strtok' 선언을 참조하십시오.
+c:\users\samsung\desktop\[217]프로젝트 1_이주해_20160311\source\hw4\hw4\my_assembler_20160311.c(986): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(439): note: 'strtok' 선언을 참조하십시오.
+c:\users\samsung\desktop\[217]프로젝트 1_이주해_20160311\source\hw4\hw4\my_assembler_20160311.c(842): warning C4716: 'assem_pass2': 값을 반환해야 합니다.
+  HW4.vcxproj -> C:\Users\samsung\Desktop\[217]프로젝트 1_이주해_20160311\source\HW4\Debug\HW4.exe
